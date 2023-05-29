@@ -210,7 +210,7 @@ namespace HonorsProject_0._1.ViewModels
 
             // Loop until there are no more dead
             // pixels.
-            do
+            for( ;; )
             {
                 bool allAlive = true;
 
@@ -303,7 +303,7 @@ namespace HonorsProject_0._1.ViewModels
                         map[i, j] = replacement[i, j];
                     }
                 }
-            } while (true);
+            }
         }
 
         /**
