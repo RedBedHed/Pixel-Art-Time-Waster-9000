@@ -169,8 +169,6 @@ An MVVM Doodle
 <img src="HonorsProject-0.1/Art2/Save176.png" height="150" width="150"></img>
 <img src="HonorsProject-0.1/Art2/Save177.png" height="150" width="150"></img>
 <img src="HonorsProject-0.1/Art2/Save178.png" height="150" width="150"></img>
-<img src="HonorsProject-0.1/Art2/Save179.png" height="150" width="150"></img>
-<img src="HonorsProject-0.1/Art2/Save180.png" height="150" width="150"></img>
 
 <img src="HonorsProject-0.1/Art/Save0.png" height="150" width="150"></img>
 <img src="HonorsProject-0.1/Art/Save1.png" height="150" width="150"></img>
