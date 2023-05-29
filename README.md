@@ -1,8 +1,6 @@
 # Pixel-Art-Time-Waster-9000
 An MVVM Doodle
 
-<img src="HonorsProject-0.1/Art2/Save0.png" height="150" width="150"></img>
-<img src="HonorsProject-0.1/Art2/Save1.png" height="150" width="150"></img>
 <img src="HonorsProject-0.1/Art2/Save2.png" height="150" width="150"></img>
 <img src="HonorsProject-0.1/Art2/Save3.png" height="150" width="150"></img>
 <img src="HonorsProject-0.1/Art2/Save4.png" height="150" width="150"></img>
