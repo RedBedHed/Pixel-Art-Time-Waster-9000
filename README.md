@@ -63,7 +63,6 @@ An MVVM Doodle
 <img src="HonorsProject-0.1/Art/Save60.png" height="150" width="150"></img>
 <img src="HonorsProject-0.1/Art/Save61.png" height="150" width="150"></img>
 <img src="HonorsProject-0.1/Art/Save62.png" height="150" width="150"></img>
-<img src="HonorsProject-0.1/Art/Save63.png" height="150" width="150"></img>
 <img src="HonorsProject-0.1/Art/Save64.png" height="150" width="150"></img>
 <img src="HonorsProject-0.1/Art/Save65.png" height="150" width="150"></img>
 <img src="HonorsProject-0.1/Art/Save66.png" height="150" width="150"></img>
@@ -82,4 +81,3 @@ An MVVM Doodle
 <img src="HonorsProject-0.1/Art/Save79.png" height="150" width="150"></img>
 <img src="HonorsProject-0.1/Art/Save80.png" height="150" width="150"></img>
 <img src="HonorsProject-0.1/Art/Save81.png" height="150" width="150"></img>
-<img src="HonorsProject-0.1/Art/Save82.png" height="150" width="150"></img>
